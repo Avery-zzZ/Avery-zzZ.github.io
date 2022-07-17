@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Description on Avery&#39;s Blog</title>
-        <link>https://example.com/tags/description/</link>
+        <link>https://avery-zzz.github.io/tags/description/</link>
         <description>Recent content in Description on Avery&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 17 Jul 2022 15:13:56 +0800</lastBuildDate><atom:link href="https://example.com/tags/description/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 17 Jul 2022 15:13:56 +0800</lastBuildDate><atom:link href="https://avery-zzz.github.io/tags/description/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>内容抓取推送 all in one 神器：Huginn | 01 介绍</title>
-        <link>https://example.com/p/%E5%86%85%E5%AE%B9%E6%8A%93%E5%8F%96%E6%8E%A8%E9%80%81-all-in-one-%E7%A5%9E%E5%99%A8huginn-01-%E4%BB%8B%E7%BB%8D/</link>
+        <link>https://avery-zzz.github.io/p/%E5%86%85%E5%AE%B9%E6%8A%93%E5%8F%96%E6%8E%A8%E9%80%81-all-in-one-%E7%A5%9E%E5%99%A8huginn-01-%E4%BB%8B%E7%BB%8D/</link>
         <pubDate>Sun, 17 Jul 2022 15:13:56 +0800</pubDate>
         
-        <guid>https://example.com/p/%E5%86%85%E5%AE%B9%E6%8A%93%E5%8F%96%E6%8E%A8%E9%80%81-all-in-one-%E7%A5%9E%E5%99%A8huginn-01-%E4%BB%8B%E7%BB%8D/</guid>
-        <description>&lt;img src="https://example.com/img/cover/default.jpg" alt="Featured image of post 内容抓取推送 all in one 神器：Huginn | 01 介绍" /&gt;&lt;h2 id=&#34;preface&#34;&gt;Preface&lt;/h2&gt;
+        <guid>https://avery-zzz.github.io/p/%E5%86%85%E5%AE%B9%E6%8A%93%E5%8F%96%E6%8E%A8%E9%80%81-all-in-one-%E7%A5%9E%E5%99%A8huginn-01-%E4%BB%8B%E7%BB%8D/</guid>
+        <description>&lt;img src="https://avery-zzz.github.io/img/cover/default.jpg" alt="Featured image of post 内容抓取推送 all in one 神器：Huginn | 01 介绍" /&gt;&lt;h2 id=&#34;preface&#34;&gt;Preface&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;你是如何食用信息的呢？&lt;/p&gt;
 &lt;p&gt;也许是挨个点开app，打开网站。本来只想看某些内容，却被乱花渐欲迷人眼，抑或是被某些不和谐的内容弄得兴致全无&lt;/p&gt;
