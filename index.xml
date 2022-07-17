@@ -6,7 +6,42 @@
         <description>Recent content on Avery&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 17 Jul 2022 15:13:56 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>内容抓取推送 all in one 神器：Huginn | 01 介绍</title>
+        <link>https://example.com/p/%E5%86%85%E5%AE%B9%E6%8A%93%E5%8F%96%E6%8E%A8%E9%80%81-all-in-one-%E7%A5%9E%E5%99%A8huginn-01-%E4%BB%8B%E7%BB%8D/</link>
+        <pubDate>Sun, 17 Jul 2022 15:13:56 +0800</pubDate>
+        
+        <guid>https://example.com/p/%E5%86%85%E5%AE%B9%E6%8A%93%E5%8F%96%E6%8E%A8%E9%80%81-all-in-one-%E7%A5%9E%E5%99%A8huginn-01-%E4%BB%8B%E7%BB%8D/</guid>
+        <description>&lt;img src="https://example.com/img/cover/default.jpg" alt="Featured image of post 内容抓取推送 all in one 神器：Huginn | 01 介绍" /&gt;&lt;h2 id=&#34;preface&#34;&gt;Preface&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;你是如何食用信息的呢？&lt;/p&gt;
+&lt;p&gt;也许是挨个点开app，打开网站。本来只想看某些内容，却被乱花渐欲迷人眼，抑或是被某些不和谐的内容弄得兴致全无&lt;/p&gt;
+&lt;p&gt;如果你有以上烦恼，又恰好懂亿点技术，不妨试试&lt;a class=&#34;link&#34; href=&#34;https://github.com/huginn/huginn&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;Huginn&lt;/strong&gt;&lt;/a&gt;——究极の内容爬取、整合、推送服务&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Huginn&lt;/strong&gt;使用Ruby编写，提供了操作友好的网页前端，可以多人使用，官方提供docker安装&lt;/p&gt;
+&lt;p&gt;在&lt;strong&gt;Huginn&lt;/strong&gt;上可以设置若干个&lt;strong&gt;Agent&lt;/strong&gt;来执行&lt;strong&gt;定时任务&lt;/strong&gt;和&lt;strong&gt;事件任务&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;example&#34;&gt;example&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;定时Agent A&lt;/strong&gt;按时去教务处网站获取通知内容&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A&lt;/strong&gt;将新发通知的标题和链接打包成事件传递给&lt;strong&gt;事件Agent B&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;B&lt;/strong&gt;访问该通知的链接获取文章内容，将其加入事件中，然后分别传递给&lt;strong&gt;事件Agent C&lt;/strong&gt; 和 &lt;strong&gt;D&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;C&lt;/strong&gt;将事件中的标题和文章内容推送到telegram，&lt;strong&gt;D&lt;/strong&gt;则将其更新到RSS feed&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;require&#34;&gt;Require&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;html基础，css选择器&lt;/li&gt;
+&lt;li&gt;http基础&lt;/li&gt;
+&lt;li&gt;docker简单使用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
         <title>About</title>
         <link>https://example.com/about/</link>
         <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
